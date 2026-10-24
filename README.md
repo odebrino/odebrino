@@ -10,8 +10,11 @@ I work on statistical modeling, model evaluation, and scientific software in Pyt
 
 ## Selected public work
 
+- **[HMM inference and intrusion detection](https://github.com/odebrino/hmm-intrusion-detection)** — sole-authored study and reusable Python package with log-space inference, Viterbi decoding, Baum–Welch training, independent numerical checks, and a reproducible synthetic example. [Report and release](https://github.com/odebrino/hmm-intrusion-detection/releases/tag/v0.1.0).
 - **[Bioacoustic classification](https://github.com/odebrino/biodcase-ml)** — scientific Python, feature extraction, KNN model comparisons, and evaluation across recording domains. The project examines how results change between stratified validation and domain-aware evaluation.
 - **[SPIGA simulator](https://github.com/odebrino/SPIGA)** — Java simulation of heterogeneous mobile assets, with grid-based A* pathfinding, collision checks, mission assignment, JavaFX/CLI interfaces, and automated tests.
+
+- **[Sudoku in C](https://github.com/odebrino/Sudoku_CLI_-_SDL2_GUI)** — exact-cover and search solvers, unique-puzzle generation, SDL2 GUI, and a strictly validated solver comparison with raw timings and an exact puzzle corpus.
 
 ## Research and engineering experience
 
